@@ -57,53 +57,11 @@ sudo -H pip3 install pytest
     pytest assignments/08RangoParesSimple
     ```
 
-- ## 10 Alterna Caracteres
-    ### Run command
-    ```
-    pytest assignments/10AlternaCaracteres
-    ```
-
-- ## 10 Alterna Caracteres con Contador
-    ### Run command
-    ```
-    pytest assignments/10AlternaCaracteresContador
-    ```
-
-- ## 16 Suma Dígitos
-    ### Run command
-    ```
-    pytest assignments/16SumaDigitos
-    ```
-
-- ## 17 Número cuadrado mayor que 
-    ### Run command
-    ```
-    pytest assignments/17NCuadradoMayor
-    ```
-
 - ## 18 Suma Dígitos
     ### Run command
     ```
     pytest assignments/18Factorial
     ```
-
-- ## 19 Pares en un Rango con función
-    ### Run command
-    ```
-    pytest assignments/19ParesRangoFunc
-    ```    
-
-- ## 19 Pares en un Rango con función
-    ### Run command
-    ```
-    pytest assignments/19ParesRangoFunc
-    ```    
-
-- ## 20 Valida si es un número primo
-    ### Run command
-    ```
-    pytest assignments/20Primos
-    ```    
 
 - ## 21 Cuenta de inversión
     ### Run command
@@ -111,45 +69,3 @@ sudo -H pip3 install pytest
     pytest assignments/21CuentaInversion
     ```    
 
-- ## 22 Inverso Dígitos
-    ### Run command
-    ```
-    pytest assignments/22InversoDigitos
-    ```
-
-- ## 23 Pino de Navidad
-    ### Run command
-    ```
-    pytest assignments/23PinoNavidad
-    ```
-
-- ## 24 Pirámide de Letras
-    ### Run command
-    ```
-    pytest assignments/24PiramideLetras
-    ```
-
-- ## 25 Triángulo Asteríscos
-    ### Run command
-    ```
-    pytest assignments/25TrianguloAsteriscos
-    ```
-
-- ## 26 Conjetura ULAM
-    ### Run command
-    ```
-    pytest assignments/26ConjeturaUlam
-    ```
-
-- ## 27 Multiplicación Rusa
-    ### Run command
-    ```
-    pytest assignments/27MultiplicacionRusa
-    ```
-
-- ## 28 Secuencia Fibonacci
-    ### Run command
-    ```
-    pytest assignments/28Fibonacci
-    ```
-    
